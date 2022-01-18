@@ -4,9 +4,9 @@ This project has been developed for CentraleSupelec Foundations to Machine Learn
 ## Project description
 The goal of the project is to recommend high ROI football players in the Fantasy Serie A game. Based on three data sources, two machine learning models predict player scores in the next week's game. The predicted scores are then divided by the players' prices in Fantasy Serie A to identify low-cost, high-performance players that are likely to perform well in the upcoming game. Rules of Fantasy Football can be found [here](https://fantaera.com/regolamento) and [here](https://www.premierleague.com/news/1252542)
 
-<a href="url"><img src="utils/fantasy_football.png" align="left" height="250" width="300" ></a>
+<a href="url"><img src="utils/fantasy_football.png" align="left" height="240" width="285" ></a>
 <br/>
-<a href="url"><img src="utils/recommendations_attackers.png" align="right" height="190" width="500" ></a>
+<a href="url"><img src="utils/recommendations_attackers.png" align="right" height="180" width="490" ></a>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Tags
