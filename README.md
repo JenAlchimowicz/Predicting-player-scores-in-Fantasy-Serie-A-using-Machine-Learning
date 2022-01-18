@@ -7,7 +7,7 @@ The goal of the project is to recommend high ROI football players in the Fantasy
 <a href="url"><img src="utils/fantasy_football.png" align="left" height="240" width="285" ></a>
 <br/>
 <a href="url"><img src="utils/recommendations_attackers.png" align="right" height="180" width="490" ></a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Tags
 Machine learning, web scraping, regression, data analytics, Pandas, scikit-learn, multiple data sources, fantasy football, data processing
