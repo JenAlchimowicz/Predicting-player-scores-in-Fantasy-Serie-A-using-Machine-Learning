@@ -44,8 +44,7 @@ ROI = predicted score / log(price + 1)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Credits
-This was a joint project, below are specified contributions per file:
-- 0_web_scrap_transfermarkt.ipynb - Jedrzej Alchimowicz (Jen)
-- 1_data_cleaning_and_merging.ipynb - Jedrzej Alchimowicz (Jen) & Enrico Burigana
-- 2_feature_engineering.ipynb - Jedrzej Alchimowicz (Jen)
-- 3_random_forest_elasticNet.ipynb - Jedrzej Alchimowicz (Jen)
+This was a joint project between:
+- Enrico Burigana
+- Sarah Salah
+- Jen Alchimowicz
